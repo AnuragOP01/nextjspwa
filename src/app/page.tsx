@@ -134,7 +134,13 @@ function PushNotificationManager() {
  
   return (
     <div>
-      <PushNotificationManager />
+      <div>
+        Hello 
+        <div>
+          From Next.js with Push Notifications
+        </div>
+      </div>
+      {/* <PushNotificationManager /> */}
       <InstallPrompt />
     </div>
   )
