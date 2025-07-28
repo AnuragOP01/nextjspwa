@@ -137,7 +137,7 @@ function PushNotificationManager() {
       <div>
         Hello 
         <div>
-          From Next.js with Push Notifications
+          From Next.js
         </div>
       </div>
       {/* <PushNotificationManager /> */}
