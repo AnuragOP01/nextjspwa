@@ -1,7 +1,7 @@
 // public/sw.js
 
 // Give your cache a name
-const CACHE_NAME = 'my-pwa-cache-v1';
+const CACHE_NAME = 'my-pwa-cache-v2';
 
 // All the files you want to cache
 const urlsToCache = [
