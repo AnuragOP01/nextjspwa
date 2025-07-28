@@ -139,6 +139,10 @@ function PushNotificationManager() {
         <div>
           From Next.js
         </div>
+
+        <div>
+          Do you get updated
+        </div>
       </div>
       {/* <PushNotificationManager /> */}
       <InstallPrompt />
